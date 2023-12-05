@@ -17,7 +17,7 @@ let isLoggedIn = false
 // underfined => 
 // symbol=> unique
 // objects
-console.log(typeof underfine); // output is undefine
+console.log(typeof underfine); // output is undefin
 
 
 
